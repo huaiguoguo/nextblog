@@ -1,0 +1,7 @@
+{
+  "extends": "eslint-config-egg",
+  "rules": {
+    "indent": [2, "tab"],
+    "comma-dangle": ["error", "never"]
+  }
+}
