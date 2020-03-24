@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Layout, Menu, Breadcrumb } from 'antd';
-import { DesktopOutlined, PieChartOutlined, FileOutlined, TeamOutlined, UserOutlined } from '@ant-design/icons';
+import { DesktopOutlined, PieChartOutlined, FileOutlined, UserOutlined } from '@ant-design/icons';
 import '../static/css/AdminIndex.css';
 import { Route } from 'react-router-dom';
 import AddArticle from './AddArticle';
